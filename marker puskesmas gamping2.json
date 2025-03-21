@@ -1,19 +1,18 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Puskesmas",
-          "description":"Puskesmas gamping 2"
-        },
-        "geometry": {
-          "coordinates": [
-            110.33779082584431,
-            -7.783090040805547
-          ],
-          "type": "Point"
-        }
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas"
+      },
+      "geometry": {
+        "coordinates": [
+          110.33779082584431,
+          -7.783090040805547
+        ],
+        "type": "Point"
       }
-    ]
-  }
+    }
+  ]
+}
