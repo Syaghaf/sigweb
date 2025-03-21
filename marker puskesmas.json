@@ -1,0 +1,30 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Pembantu Nogotirto"
+        },
+        "geometry": {
+          "coordinates": [
+            110.33512657258115,
+            -7.774540878034898
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Puskesmas Gamping 2"},
+        "geometry": {
+          "coordinates": [
+            110.33778743847557,
+            -7.78309342242855
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+  }
