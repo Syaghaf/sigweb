@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas gamping2"
+        },
+        "geometry": {
+          "coordinates": [
+            110.33779082584431,
+            -7.783090040805547
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Pembantu Nogotirto"
+        },
+        "geometry": {
+          "coordinates": [
+            110.3351613693651,
+            -7.774549659836566
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas pembantu Bener"
+        },
+        "geometry": {
+          "coordinates": [
+            110.35360110879492,
+            -7.776715211991302
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Gedong Tengen"
+        },
+        "geometry": {
+          "coordinates": [
+            110.3577322607926,
+            -7.791128932483474
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Tegalrejo"
+        },
+        "geometry": {
+          "coordinates": [
+            110.3615772721098,
+            -7.772519604533898
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Mlati 1"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36288282257334,
+            -7.754449778534564
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Ngampilan"
+        },
+        "geometry": {
+          "coordinates": [
+            110.35586892121444,
+            -7.8035532876496205
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name":"Puskesmas Mudal"
+        },
+        "geometry": {
+          "coordinates": [
+            110.38003816214416,
+            -7.728884234806458
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+  }
