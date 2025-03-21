@@ -3,7 +3,10 @@
     "features": [
       {
         "type": "Feature",
-        "properties": {},
+        "properties": {
+          "name": "Puskesmas",
+          "description":"Puskesmas gamping 2"
+        },
         "geometry": {
           "coordinates": [
             110.33779082584431,
