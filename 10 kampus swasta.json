@@ -3,9 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-      "name" : "Universitas Janabadra"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           [
