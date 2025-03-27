@@ -3,6 +3,17 @@
   "features": [
     {
       "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          110.44432957642869,
+          -7.542032744325937
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "name": "Puskesmas gamping2"
       },
@@ -251,7 +262,7 @@
     {
       "type": "Feature",
       "properties": {
-      "name": "Puskesmas Godean 2"
+        "name": "Puskesmas Godean 2"
       },
       "geometry": {
         "coordinates": [
